@@ -1,0 +1,1 @@
+_this addAction ["Bank","he_actions\bank.sqf","_this",3,false,false,"","(_target distance _this) < 10"]; 
