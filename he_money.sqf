@@ -1,3 +1,6 @@
+// This handles the bank and wallet.
+// Credits : Head
+
 he_money_init = {
 _bankMon = player getVariable "bank_money";
 _walletMon = player getVariable "wallet_money";
