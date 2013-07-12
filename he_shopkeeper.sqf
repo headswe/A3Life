@@ -1,3 +1,8 @@
+// This inits the Shopkeeper action.
+// Credits : Head
+
+
+
 _unit = _this select 0;
 _classnames = _this select 1;
 _stock = _this select 2;
