@@ -1,3 +1,6 @@
+// This handles the act of buying something from a shopkeeper, supports vehicles,items,magazines,weapons
+// Credit: head
+
 _listBox = 1500;
 _shopUnit = player getVariable "currentShop";
 _items = _shopUnit getVariable "classnames";
