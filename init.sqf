@@ -1,3 +1,7 @@
+// Init stuff.
+// Credits : Head
+
+
 _config = [] execVM "he_config.sqf";
 _money = [] execVM "he_money.sqf";
 _action = [] execVM "he_actions.sqf";
