@@ -1,3 +1,7 @@
+// This handles the bank window.
+// Credits : Head
+
+
 _what = _this select 0;
 hint format["%1",_this];
 if(_what == 1) then
