@@ -1,3 +1,7 @@
+// Construct the inventory window.
+// Credits : Head
+
+
 _listBox = 1500;
 lbClear _listBox;
 {
