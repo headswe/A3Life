@@ -1,3 +1,5 @@
+// Inits the shopkeeper window.
+// Credits : Head
 _listBox = 1500;
 _shopUnit = player getVariable "currentShop";
 he_fnc_test = {
